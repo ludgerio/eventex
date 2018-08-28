@@ -5,7 +5,7 @@ Sistema de Eventos encomendado pela Morena.
 ## Como desenvolver?
 
 1. Clone o repositorio.
-2. Crie um virtualenv com Python 3.5
+2. Crie um virtualenv com Python 3.6.5
 3. Ative o virtualenv.
 4. Instale as dependencias.
 5. Configure a instancia com o .env
